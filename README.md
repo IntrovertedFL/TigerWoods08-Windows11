@@ -1,5 +1,6 @@
 # TigerWoods08-Windows11
 Instructions on how to play Tiger Woods 08 on Windows 11
+Credit - https://www.reddit.com/r/EASportsPGATour/comments/11b4hwu/tiger_woods_pga_tour_2008_on_win11/
 
 When you install the game make sure you install the adobe flash files if it asks you too. Don't install the online components.
 
